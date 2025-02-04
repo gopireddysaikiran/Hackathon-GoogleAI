@@ -56,9 +56,13 @@ qachat/
 ⚡ How It Works
 
 1️⃣ User enters a question in the input box
+
 2️⃣ AI processes the query using Gemini-Pro
+
 3️⃣ Response is displayed dynamically
+
 4️⃣ Chat history is maintained for conversation flow
+
 
 📜 License
 
