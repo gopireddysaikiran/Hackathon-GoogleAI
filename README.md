@@ -16,40 +16,25 @@ This is a Streamlit-based chatbot powered by Google's Gemini-Pro AI model. It pr
 1️⃣ Clone the Repository
 
 bash
-
 Copy
-
 Edit
-
 git clone https://github.com/your-repo/qachat.git
-
 cd qachat
-
 
 2️⃣ Install Dependencies
 
 bash
-
 Copy
-
 Edit
-
 pip install -r requirements.txt
-
 
 3️⃣ Set Up Environment Variables
 
 Create a .env file in the project directory and add your Google API key:
-
-
 ini
-
 Copy
-
 Edit
-
 GOOGLE_API_KEY=your_api_key_here
-
 
 4️⃣ Run the Application
 
@@ -61,7 +46,6 @@ streamlit run qachat.py
 🖼️ UI Preview
 
 🏗️ Project Structure
-
 bash
 
 Copy
@@ -78,7 +62,6 @@ qachat/
 
 │── README.md       # Project documentation
 
-
 ⚡ How It Works
 
 1️⃣ User enters a question in the input box
@@ -94,9 +77,9 @@ qachat/
 
 👤 This project is open-source. Feel free to modify and improve it.
 
-📝 Notes:
 
+
+📝 Notes:
 Replace "your_api_key_here" with your actual API key.
 Update git clone with your actual repository link.
 Add real images instead of placeholders if available.
-You can copy-paste this directly into a README.md file. Let me know if you need modifications! 🚀
